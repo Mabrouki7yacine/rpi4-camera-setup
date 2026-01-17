@@ -61,7 +61,8 @@ pip3 install opencv-python
 ```bash
 python3 camera_test.py
 ```
-press q to quit and deactivate the venv :
+press q to quit
+### Now deactivate the venv :
 ```bash
 deactivate
 ```
